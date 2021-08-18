@@ -50,3 +50,5 @@ echo '\nexport NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nv
 //Install node lts
 nvm install 14.17.3
 
+//Install VIM
+apt install vim
