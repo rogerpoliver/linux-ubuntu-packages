@@ -58,3 +58,8 @@ nvm install 14.17.3
 
 //Install VIM
 apt install vim
+
+
+// VSCODE
+//// JavaScript
+code --install-extension jpoissonnier.vscode-styled-components
